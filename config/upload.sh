@@ -1,0 +1,1 @@
+cd /home/myarch/Data/docsify && git add . && git commit -m 'sumbit' && git push 

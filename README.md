@@ -2,8 +2,7 @@
 ```plantuml
 @startmindmap
 title 高等数学思维导图
-asd
-
+123
 -[#Red] <&flag>微积分
 
 --[#Orange] 一元微分学
