@@ -2,7 +2,7 @@
 ```plantuml
 @startmindmap
 title 高等数学思维导图
-
+asd
 
 -[#Red] <&flag>微积分
 
@@ -78,7 +78,8 @@ left side
 <!-- panels:start -->
 123
 <!-- panels:end -->
-#### **③函数的极限**
+
+#### ③函数的极限
 
 Ciao!
 
